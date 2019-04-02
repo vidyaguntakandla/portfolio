@@ -1,0 +1,18 @@
+{
+  "author": {
+    "email": "vidya.guntakandla@gmail.com",
+    "name": "vidya guntakandla",
+    "url": "https://vidyaguntakandla.github.io"
+  },
+  "name": "vidya.guntakandla.github.io",
+  "repository": {
+    "type": "git",
+    "url": "https://vidyaguntakandla.github.io/"
+  },
+  "version": "0.0.1",
+  "description": "Vidya Guntakandla's Portfolio",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "requirejs": "^2.3.2"
+  }
+}
